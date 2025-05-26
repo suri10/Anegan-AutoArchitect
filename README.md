@@ -2,6 +2,13 @@
 
 **Anegan** is an AI-powered AutoArchitect that converts **natural language infrastructure requirements** into **Terraform plans**. Designed to be your virtual cloud solutions architect.
 
+-cloud-infrastructure
+-terraform
+-ai-tools
+-autoarchitect
+-devops
+-anegan
+
 ![Screenshot](./Anegan-assets/anegan_ui_screenshot.png)
 
 ---
@@ -67,3 +74,7 @@ git add README.md
 git commit -m "Update README with project overview and screenshot"
 git push
 ````
+
+![MIT License](https://img.shields.io/github/license/suri10/anegan-autoarchitect)
+![Last Commit](https://img.shields.io/github/last-commit/suri10/anegan-autoarchitect)
+
