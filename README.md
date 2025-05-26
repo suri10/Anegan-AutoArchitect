@@ -67,5 +67,3 @@ git add README.md
 git commit -m "Update README with project overview and screenshot"
 git push
 ````
-
-Let me know when it's live — I’ll visit the repo and bless it with final polish ✨
